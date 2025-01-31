@@ -1,0 +1,24 @@
+[
+    {
+        "Num":"four",
+        "title":"Token Initial Cap",
+        "text":"$13000"
+    },
+    
+    {
+        "Num":"one",
+        "title":"Total Supply",
+        "text":"28.710.000.000"
+    },
+    {
+        "Num":"two",
+        "title":"For a mint",
+        "text":"290.000 HUGOLD"
+    },
+    {
+        "Num":"seven",
+        "title":"Sold Tokens",
+        "text":"28.710.000.000 ",
+        "isLast":true
+    }
+]

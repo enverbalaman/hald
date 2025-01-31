@@ -1,0 +1,34 @@
+[
+    {
+        "year": "STEP 1",
+        
+        "data": [
+            "Building a developer team",
+            "Website development",
+            "Demo game integration into website",
+            "Initiation of the deployment process",
+            "Launch of the project's social media platforms. (X, Telegram, Youtube, etc.)",
+            "Sharing videos on YouTube for project promotions",
+            "Publishing one pager as a whitepaper pioneer",
+            "Publishing whitepaper",
+            "First Dex listing"
+        ]
+    },
+    {
+        "year": "STEP 2",
+        "data": [
+            "First Cex listing",
+            "Development of website game",
+            "First NFT collection launch",
+            "The start of cooperating on reliability for tokens on the KRC20 network"
+        ]
+    },
+    {
+        "year": "STEP 3",
+        "data": [
+            "Top tier CEX listing",
+            "Second NFT collection launch",
+            "Support for new KRC20 tokens and Kaspa"
+        ]
+    }
+]
