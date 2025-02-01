@@ -58,7 +58,7 @@ const HomeDemo3 = () => {
           specialHead="Catch The Future and Hold More HUGOLD"
           textUp="$HUGOLD is hero of the KRC20"
           textDown="Hugold is a white collar worker who has a routine life in his 40s.
-          When he encounters a memory that reminds her of her past, her whole life changes.
+          When he encounters a memory that reminds him of his past, his whole life changes.
           And we will witness this change"
           link1="Play Mini Game"
           link2="Buy HUGOLD"
